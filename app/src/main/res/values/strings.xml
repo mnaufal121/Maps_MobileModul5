@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modul5MobileMaps</string>
+    <string name="google_maps_key">AIzaSyADyemrGOEqCAL4n0Jky3o-TuQUnJmD1tM</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>SPBU</item>
+        <item>Restoran</item>
+        <item>Kantor Polisi</item>
+        <item>Sekolah</item>
+    </string-array>
+</resources>
